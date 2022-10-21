@@ -1,6 +1,5 @@
 package application;
 
-import java.nio.channels.SelectableChannel;
 import java.util.Date;
 
 import model.entities.Department;
